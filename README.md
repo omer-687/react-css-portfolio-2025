@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+React CSS Portfolio
+Description
+This is a personal portfolio website built with React, showcasing my skills, education, projects, and contact information. The website features a responsive design with a navigation bar, sidebar, project cards, education table, and a contact form. It uses modern React practices like context, lazy loading, and form validation.
+Setup Instructions
+Follow these steps to set up and run the project locally:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Clone the Repository:
+git clone https://github.com/your-username/react-css-portfolio-2025.git
 
-## Available Scripts
+Replace your-username with your GitHub username.
 
-In the project directory, you can run:
+Navigate to the Project Directory:
+cd react-css-portfolio-2025
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Install Dependencies:Ensure you have Node.js and npm installed, then run:
+npm install
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This installs all required packages, including React, Material-UI, react-router-dom, react-hook-form, and yup.
 
-### `npm test`
+Run the Application:Start the development server:
+npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The app will open in your default browser at http://localhost:3000.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Usage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Home Page: View a welcome message and my circular profile picture.
+Education Page: See my academic background in a table format.
+Projects Page: Browse my projects, displayed as cards with images and descriptions.
+Contact Page: Submit a message via the contact form.
+Use the sidebar (or menu icon on mobile) to navigate between pages.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Features
 
-### `npm run eject`
+Responsive Navigation Bar: Collapsible menu on mobile, avatar dropdown on desktop.
+Sidebar: Displays profile details, hidden on mobile unless toggled.
+Project Cards: Responsive grid with hover effects and project images.
+Education Table: Striped rows showing degree details.
+Contact Form: Form validation with alerts on submission.
+Fixed Footer: Static message at the bottom of all pages.
+Circular Profile Image: Animated with a pulse effect on Home, Header, and Sidebar.
+Dynamic Page Titles: Managed via React Context.
+Lazy Loading: Pages load lazily with a loading spinner.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Technologies Used
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+React: Frontend framework for building the UI.
+Material-UI (MUI): For responsive components and styling.
+React Router: For client-side routing.
+React Hook Form & Yup: For form handling and validation.
+CSS Modules: For scoped styling with BEM naming.
+Git & GitHub: For version control and repository hosting.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Screenshots
+Here are some visuals of the portfolio:
+Home Page
+https://github.com/omer-687/react-css-portfolio-2025/blob/master/screenshots/home.png
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Projects Page
+https://github.com/omer-687/react-css-portfolio-2025/blob/master/screenshots/projects.png
 
-## Learn More
+Education Page
+https://github.com/omer-687/react-css-portfolio-2025/blob/master/screenshots/education.png
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Contact Page
+https://github.com/omer-687/react-css-portfolio-2025/blob/master/screenshots/contact.png
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Live Demo
+Check out the live version of the portfolio here:
+[https://omer-687.github.io/react-css-portfolio-2025/](https://omer-687.github.io/react-css-portfolio-2025/)
