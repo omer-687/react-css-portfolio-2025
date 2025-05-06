@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-css-portfolio-2025/static/css/main.8875c046.css",
+    "main.js": "/react-css-portfolio-2025/static/js/main.ee0c2df6.js",
+    "static/css/824.00ebfea6.chunk.css": "/react-css-portfolio-2025/static/css/824.00ebfea6.chunk.css",
+    "static/js/824.00dd5ce5.chunk.js": "/react-css-portfolio-2025/static/js/824.00dd5ce5.chunk.js",
+    "static/css/970.87230a39.chunk.css": "/react-css-portfolio-2025/static/css/970.87230a39.chunk.css",
+    "static/js/970.c9486922.chunk.js": "/react-css-portfolio-2025/static/js/970.c9486922.chunk.js",
+    "static/css/268.0a3d900f.chunk.css": "/react-css-portfolio-2025/static/css/268.0a3d900f.chunk.css",
+    "static/js/268.f43675c1.chunk.js": "/react-css-portfolio-2025/static/js/268.f43675c1.chunk.js",
+    "static/css/45.7c86c926.chunk.css": "/react-css-portfolio-2025/static/css/45.7c86c926.chunk.css",
+    "static/js/45.f0f66c1e.chunk.js": "/react-css-portfolio-2025/static/js/45.f0f66c1e.chunk.js",
+    "static/js/927.aa011573.chunk.js": "/react-css-portfolio-2025/static/js/927.aa011573.chunk.js",
+    "index.html": "/react-css-portfolio-2025/index.html",
+    "main.8875c046.css.map": "/react-css-portfolio-2025/static/css/main.8875c046.css.map",
+    "main.ee0c2df6.js.map": "/react-css-portfolio-2025/static/js/main.ee0c2df6.js.map",
+    "824.00ebfea6.chunk.css.map": "/react-css-portfolio-2025/static/css/824.00ebfea6.chunk.css.map",
+    "824.00dd5ce5.chunk.js.map": "/react-css-portfolio-2025/static/js/824.00dd5ce5.chunk.js.map",
+    "970.87230a39.chunk.css.map": "/react-css-portfolio-2025/static/css/970.87230a39.chunk.css.map",
+    "970.c9486922.chunk.js.map": "/react-css-portfolio-2025/static/js/970.c9486922.chunk.js.map",
+    "268.0a3d900f.chunk.css.map": "/react-css-portfolio-2025/static/css/268.0a3d900f.chunk.css.map",
+    "268.f43675c1.chunk.js.map": "/react-css-portfolio-2025/static/js/268.f43675c1.chunk.js.map",
+    "45.7c86c926.chunk.css.map": "/react-css-portfolio-2025/static/css/45.7c86c926.chunk.css.map",
+    "45.f0f66c1e.chunk.js.map": "/react-css-portfolio-2025/static/js/45.f0f66c1e.chunk.js.map",
+    "927.aa011573.chunk.js.map": "/react-css-portfolio-2025/static/js/927.aa011573.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8875c046.css",
+    "static/js/main.ee0c2df6.js"
+  ]
+}
