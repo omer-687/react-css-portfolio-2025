@@ -1,0 +1,13 @@
+.portfolio__sidenav--container {
+    width: 250px;
+    padding: 1rem;
+  }
+  
+  .portfolio__sidenav--drawer {
+    width: 250px;
+  }
+  
+  .portfolio__sidenav--profile {
+    text-align: center;
+    padding: 1rem;
+  }

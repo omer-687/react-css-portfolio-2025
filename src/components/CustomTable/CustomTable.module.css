@@ -1,0 +1,7 @@
+.portfolio__education-table--container {
+    margin-top: 1rem;
+  }
+  
+  .portfolio__education-table--row--striped {
+    background-color: #f5f5f5;
+  }
